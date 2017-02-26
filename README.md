@@ -1,5 +1,6 @@
 # WumpusMod
 UnrealScript for Unreal Tournament 2004
+
 Game Types
 - Vehicle Bombing Run
 - Vehicle Capture the Flag
