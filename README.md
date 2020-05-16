@@ -14,7 +14,7 @@ Mutators
 - Vehicle Rotator
 - Spawn Delay
 - TeamSpeak3 Synch
-- Dicsord Synch (UNDER CONSTRUCTION)
+- Discord Synch (UNDER CONSTRUCTION)
 
 Vehicles
 - Dropship (Puff the magic dragon)
